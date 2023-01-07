@@ -1,0 +1,16 @@
+Donnez le nom du produit :SALAH
+  Donnez le code du produit:1
+ Donnez la quantite du produit:10
+ Donnez le prix du produit:100.000000
+ Donnez le prix TTC du produit 1:0.000000
+ Donnez le nom du produit :NEZHA
+  Donnez le code du produit:2
+ Donnez la quantite du produit:20
+ Donnez le prix du produit:200.000000
+ Donnez le prix TTC du produit 2:0.000000
+ Donnez le nom du produit :AMINE
+  Donnez le code du produit:3
+ Donnez la quantite du produit:30
+ Donnez le prix du produit:300.000000
+ Donnez le prix TTC du produit 3:0.000000
+ la liste tous les produits selon l’ordre alphabétique  croissant du nom:

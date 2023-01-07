@@ -1,0 +1,16 @@
+le nom du produit :SS
+   le code du produit:01 
+  la quantite du produit:10
+  le prix du produit:100.00DH
+ le prix TTC du produit 1:115.00DH
+ le nom du produit :DD
+   le code du produit:02 
+  la quantite du produit:02
+  le prix du produit:244.00DH
+ le prix TTC du produit 2:280.60DH
+ la liste tous les produits selon l’ordre alphabétique  croissant du nom:
+DD
+SS
+la liste tous les produits selon l’ordre  décroissant du prix:
+244.00DH
+100.00DH
